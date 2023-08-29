@@ -1,0 +1,15 @@
+body {
+  background-color: bisque;
+}
+
+.root {
+  margin: 10px;
+}
+
+ol {
+  font-size: 16px;
+}
+
+.question {
+  font-weight: 600;
+}
